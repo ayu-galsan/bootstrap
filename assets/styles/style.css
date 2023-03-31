@@ -1,0 +1,18 @@
+.card-img-size {
+  height: 325px;
+  background-color: #b0bec5;
+}
+
+.navbar-inner {
+  padding: 0 10%;
+}
+
+.container-inner {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.card-bg {
+  background-color: #e4ebef;
+  margin: 0 0 20px;
+}
